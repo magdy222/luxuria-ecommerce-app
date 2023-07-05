@@ -1,0 +1,2 @@
+# luxuria-ecommerce-app
+  I built Luxuria, an online store using React, Redux, Tailwind, Firebase, and API integration. React, a popular JavaScript library, was used to create dynamic and interactive components, while Redux managed the application's state, ensuring data consistency across the website. I leveraged my skills to create a responsive and modern design with Tailwind. Firebase was used to handle authentication. 
