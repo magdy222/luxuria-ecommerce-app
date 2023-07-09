@@ -4,7 +4,7 @@ import CardGroup from './content/CardGroup'
 
 const HomePage = () => {
   return (
-    <div>
+    <div className='min-h-screen'>
     <CarouselExample/>
     <CardGroup/>
     </div>

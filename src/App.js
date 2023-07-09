@@ -24,7 +24,7 @@ function App() {
   return (
   
     <BrowserRouter>
-      <div className="App" style={{ direction: t('dir') }}>
+      <div className="App" style={{ direction: t('dir') }} >
       <ToastContainer/>
         <NavBar/>
       <Routes>

@@ -38,7 +38,7 @@ const Login = () => {
 return(
   <div className='container mx-auto my-24 flex justify-center justify-items-center 
     drop-shadow-lg w-[380px] h-[340px] border border-white 
-    bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500  rounded-lg' >
+    bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500  rounded-lg ' >
         <div className='flex flex-col justify-center justify-items-center'>
            <form className='p-5 text-white'>
             <div className='flex justify-center justify-items-center'>
